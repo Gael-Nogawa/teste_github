@@ -4,6 +4,15 @@ dir ou ls         => Lista arquivos da pasta
 cls ou ctrl + l   => Limpa a tela
 cd                => Entra no diretório 
 cd ..             => Volta para a pasta anterior
-mkir              => Cria um pasta
+mkdir             => Cria um pasta
 rmdir             => Exclui a pasta
 mv                => Move ou renomeia arquivos/pastas
+mv -d             => -d quer dizer diretório
+
+
+Exemplos:
+
+mkdir nome-da-pasta
+rmdir nome-da-pasta
+mv nome-original nome-que-deseja
+
