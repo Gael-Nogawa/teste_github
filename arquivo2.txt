@@ -1,1 +1,19 @@
-hello, world, tentando subir no github
+##Git
+
+Recuperando arquivos para colocar no .gitignore
+
+Depois de fazer o 'pull' no repositório faça:
+
+  git rm --cached nome-do-arquivo
+
+Após isso faça a adição no .gitignore, então só falta fazer o 'add', 'commit' e 'push' e pronto! =)
+
+Mas se quiser recuperar uma pasta do Git, é só adicionar o -r entre o 'rm' e '--cached', assim:
+
+  git rm -r --cached nome-da-pasta
+
+E ficamos na #paz
+
+=D
+
+
