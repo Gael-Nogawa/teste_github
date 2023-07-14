@@ -1,0 +1,7 @@
+# Git 
+
+Para fazer uso do .git para entender melhor onde ficam as coisas dentro do VSCODE, faça:
+
+Files -> Preferences -> Config -> Digite 'Exclude' 
+
+Dentro do arquivo, você verá 'Files Exclude: ", exclua as extensões '**/.git' das configurações, vá para a sua pasta e pronto! Verá a pasta que era oculta dentro do seu projeto.
