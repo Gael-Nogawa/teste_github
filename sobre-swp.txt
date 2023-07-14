@@ -1,0 +1,5 @@
+Arquivo sobre swp.
+
+O .swp é um arquivo criado imediatamente após a edição de um arquivo, e ele é salvo no mesmo diretório do arquivo original.
+O nome do arquivo sempre vai ser o nome do arquivo original mais com a extensão '.swp'.
+
