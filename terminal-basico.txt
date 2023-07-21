@@ -4,13 +4,17 @@ dir ou ls         => Lista arquivos da pasta
 cls ou ctrl + l   => Limpa a tela
 cd                => Entra no diretório 
 cd ..             => Volta para a pasta anterior
+cd~               => Volta ao início
 mkdir             => Cria um pasta
 rmdir             => Exclui a pasta
+rm                => Remove arquivo ou pasta vazia
+rm -r             => Remove pasta cheia
 mv                => Move ou renomeia arquivos/pastas
 mv -d             => -d quer dizer diretório
 ls                => mostra todas as pastas e arquivos do diretório
 ls -l             => mostra os 3 arquivo/pastas do diretório em ordem e detalhes da ultima alteração.
 ls -lh            => Mostra todas os arquivos e pastas do dirtório em ordem e detalhes.
+ls -a             => Mostra pastas ocultas
 
 
 Exemplos:
