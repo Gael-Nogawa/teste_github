@@ -7,8 +7,8 @@ cd ..             => Volta para a pasta anterior
 cd~               => Volta ao início
 mkdir             => Cria um pasta
 rmdir             => Exclui a pasta
-touch nome-arquivo=> Cria um arquivo, mas não entra nele
-nano nome-arquivo => entra nesse arquivo (Para sair do nano e salvar - CTRL +X, Y, e enter)
+touch             => Cria um arquivo, mas não entra nele
+nano              => entra nesse arquivo (Para sair do nano e salvar - CTRL +X, Y, e enter)
 mv                => Move ou renomeia arquivos/pastas
 mv -d             => -d quer dizer diretório
 ls                => mostra todas as pastas e arquivos do diretório
@@ -19,7 +19,8 @@ ls -a             => Mostra pastas ocultas
 
 Exemplos:
 
-mkdir nome-da-pasta
-rmdir nome-da-pasta
-mv nome-original nome-que-deseja
+mkdir nome-da-pasta (criar uma pasta, mas não entra nela)
+rmdir nome-da-pasta (remover pasta)
+mv nome-original nome-que-deseja (alterar o nome do arquivo)
+mv nome_do_arquivo ../   (move o arquivo para a pasta anterior)
 
